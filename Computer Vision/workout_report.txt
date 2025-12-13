@@ -1,0 +1,21 @@
+Fitness Form Analysis Report
+Date: 2025-12-13 13:12:03
+---------------------------------------------------
+
+Overall Performance Summary:
+  Several deviations were observed during your workout. Review the specific issues and advice below to improve your form.
+
+Specific Issues Detected:
+  - Left Shoulder Angle: Left shoulder moving too much (swinging). (Observed in 97.75% of frames)
+  - Right Shoulder Angle: Right shoulder moving too much (swinging). (Observed in 50.26% of frames)
+
+Personalized Corrective Advice:
+  - For 'Left shoulder moving too much (swinging).': Minimize left shoulder movement. Keep your elbows close to your body and focus on curling with your biceps, not swinging with your shoulders.
+  - For 'Right shoulder moving too much (swinging).': Minimize right shoulder movement. Keep your elbows close to your body and focus on curling with your biceps, not swinging with your shoulders.
+
+---------------------------------------------------
+Recommendations:
+  - Review the visual feedback video for frame-by-frame guidance.
+  - Focus on slow, controlled movements to maintain proper form throughout the exercise.
+  - Consider using lighter weights if form is consistently breaking down.
+  - Practice in front of a mirror to self-correct in real-time.
